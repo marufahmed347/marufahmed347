@@ -2,27 +2,27 @@
 
 <h1 align="center">Hi 👋, I'm MARUF AHMED</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">I'am a Student of Hablu Programmer</h4>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=marufahmed347&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: TAILWIND / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently student on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning Node.js, Express.js, Firebase, MongoDB and Mongoose
 
 - 👨‍💻 All of my projects are available at [https://github.com/marufahmed347](https://github.com/marufahmed347)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100065599627884](https://www.facebook.com/profile.php?id=100065599627884)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **marufahmed550741@gmail.com**
 
 - 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
 
